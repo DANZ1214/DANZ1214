@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:cruzj1214@gmail.com.com">📫 Contact Me</a> •
-  <a href="www.linkedin.com/in/josuè-cruz-baab4b2b8">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/josuè-cruz-baab4b2b8">💼 LinkedIn</a> •
 </p>
 
 ---

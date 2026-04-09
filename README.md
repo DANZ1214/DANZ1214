@@ -71,15 +71,6 @@ If you want to see what I've been building, check out my pinned projects below.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DANZ1214&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANZ1214&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <a href="mailto:cruzj1214@gmail.com">📫 cruzj1214@gmail.com</a> •
   <a href="https://www.linkedin.com/in/josuè-cruz-baab4b2b8">💼 LinkedIn</a>

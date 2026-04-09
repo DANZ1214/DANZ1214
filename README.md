@@ -1,28 +1,34 @@
-<h1 align="center">Hi, I'm Josué Cruz 👋</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Graduate '26 | Cybersecurity Enthusiast</h3>
+<h1>Hey there! 👋</h1>
 
-<p align="center">
-  <a href="mailto:cruzj1214@gmail.com.com">📫 Contact Me</a> •
-  <a href="https://www.linkedin.com/in/josuè-cruz-baab4b2b8">💼 LinkedIn</a> •
-</p>
+I'm **Josué Cruz**, a full-stack developer based in **Tegucigalpa, Honduras**.
+
+I design and build whatever I can imagine — from SaaS platforms and point-of-sale
+systems to medical appointment apps and vehicle inspection tools.
+
+If a business problem lands on my desk, chances are I'll architect it, build it, and ship it.
+
+My main stack is **React, TypeScript, Firebase, and Node.js**. On the backend I also
+work with **Go, PHP, and SQL Server**, and I manage deployments on **Azure and Firebase Hosting**.
+For mobile I reach for **Flutter and Kotlin**.
+
+I'm a **Computer Science graduate** (degree pending · June 2026) and Cisco certified in
+both **Ethical Hacking** and the **Junior Cybersecurity Analyst Career Path** — I genuinely
+enjoy the offensive security side of tech.
+
+I also speak English at a **C1 Advanced level** (EF SET certified · 61/100) alongside
+my native Spanish.
+
+If you want to see what I've been building, check out my pinned projects below.
 
 ---
 
-### 🚀 About Me
+### Fun Facts:
 
-I'm a **Computer Science graduate** (degree pending · June 2026) and full-stack
-developer with hands-on experience building SaaS applications, business management
-systems, and cloud-deployed web apps. I've worked on real-world projects ranging
-from POS systems to medical appointment platforms — always focused on clean
-architecture and scalable design.
-
-- 🎓 **Computer Science** degree — graduating June 2026
-- 🔭 Currently building **SaaS business management systems** (POS, inventory, scheduling)
-- 🌱 Expanding my backend skills with **Go** and cloud infrastructure on **Azure & Firebase**
-- 🔐 Cisco certified: **Ethical Hacker** & **Junior Cybersecurity Analyst**
-- 🛠️ Managed and maintained a production server for a startup
-- 🌍 Native Spanish speaker · **C1 Advanced English** (EF SET certified · 61/100)
-- 💬 Ask me about **React, Firebase, TypeScript, Node.js, or system architecture**
+- 🌍 I'm from Honduras
+- 🔐 I find breaking things (ethically) just as fun as building them
+- 🐧 I daily drive Linux
+- 🎮 I unwind with Minecraft and gaming
+- 💪 Gym is non-negotiable
 
 ---
 
@@ -57,17 +63,6 @@ architecture and scalable design.
 
 ---
 
-### 🏗️ Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 💈 **Barbershop SaaS** | Full SaaS platform with sales, inventory & barber management modules | React, Firebase, TypeScript |
-| 🏥 **Medical Appointment System** | Patient management, doctor scheduling & visit tracking | React, Firestore, Node.js |
-| 🛒 **POS System** | Point-of-sale with product inventory and transaction management | React, TypeScript, Firebase |
-| 🚗 **Vehicle Inspection System** | Entry/exit tracking with image capture for vehicle management | React, Firebase |
-
----
-
 ### 🏅 Certifications
 
 - 🔐 **Cisco — Ethical Hacker** · Networking Academy · Dec 2025 *(70 hrs)*
@@ -81,4 +76,11 @@ architecture and scalable design.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DANZ1214&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANZ1214&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:cruzj1214@gmail.com">📫 cruzj1214@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/josuè-cruz-baab4b2b8">💼 LinkedIn</a>
 </p>

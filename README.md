@@ -67,7 +67,7 @@ If you want to see what I've been building, check out my pinned projects below.
 
 - 🔐 **Cisco — Ethical Hacker** · Networking Academy · Dec 2025 *(70 hrs)*
 - 🛡️ **Cisco — Junior Cybersecurity Analyst Career Path** · Networking Academy · Dec 2025
-- 🌐 **EF SET English Certificate — C1 Advanced** · Score: 61/100 · Dec 2025
+- 🌐 **EF SET English Certificate — C1 Advanced** · Dec 2025
 
 ---
 

@@ -10,7 +10,7 @@ My main stack is **React, TypeScript, Firebase, and Node.js**. On the backend I 
 
 I’m a **Computer Science graduate** (degree pending · June 2026) and Cisco certified in both **Ethical Hacking** and the **Junior Cybersecurity Analyst Career Path** — I genuinely enjoy the offensive security side of tech.
 
-I also speak English at a **C1 Advanced level** (EF SET certified · 61/100) alongside my native Spanish.
+I also speak English at a **C1 Advanced level** (EF SET certified) alongside my native Spanish.
 
 If you want to see what I’ve been building, check out my portfolio here: [danz1214.web.app](https://danz1214.web.app/).
 

@@ -6,7 +6,7 @@ I like building useful stuff — from SaaS ideas and point-of-sale systems to me
 
 If there’s a problem to solve, I’m usually the one who can help design it, build it, and ship it.
 
-My main stack is **React, TypeScript, Firebase, and Node.js**. On the backend I also work with **Go, PHP, and SQL Server**, and I manage deployments on **Azure and Firebase Hosting**. For mobile I reach for **Flutter and Kotlin**.
+My main stack is **React, TypeScript, Firebase, and Node.js**. On the backend I also work with **.Net, C#, PHP, and SQL Server**, and I manage deployments on **Azure and Firebase Hosting**. For mobile I reach for **Flutter and Kotlin**.
 
 I’m a **Computer Science graduate** (degree pending · June 2026) and Cisco certified in both **Ethical Hacking** and the **Junior Cybersecurity Analyst Career Path** — I genuinely enjoy the offensive security side of tech.
 
